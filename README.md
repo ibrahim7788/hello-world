@@ -1,2 +1,3 @@
 # hello-world
-hello world Repository 
+Hi guys, Ibrahim here
+      I am new to Programming.
